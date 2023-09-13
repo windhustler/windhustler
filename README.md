@@ -3,7 +3,7 @@
 ### About me
 - 🔐 Smart Contract Developer & Security Researcher
 - 🤖 Backend Developer | Java | Kotlin | Javascript
-- 👨‍🏭 Ex Petroleum Engineer
+- 👨‍🏭 Ex-Petroleum Engineer
 
 ### Work
 Extensive experience in developing and managing DeFi projects holding millions in TVL.

@@ -16,4 +16,11 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/), [She
 - [Phuture DeFi Index](https://www.phuture.finance/products/pdi) | Yield generating DeFi index.
 - [Colony Avalanche Index](https://www.phuture.finance/products/cai) | The leading Avalanche index.
 - [Single-Sided Liquidity DEX](https://news.bitcoin.com/hydra-chain-claims-its-spot-by-launching-a-native-dex/) | Hydra chain native DEX.
-- [Ampnet](https://ampnet.io/) | The Tokenization of Real World Assets
+- [Ampnet](https://ampnet.io/) | The Tokenization of Real World Assets.
+
+### Misc
+- [EVM Puzzles Walkthorugh](https://www.youtube.com/watch?v=ENfM3spI_hI&list=PLycOy94yA7vph9nb3MFbu00YMK81PHxMK)
+- [How To Switch Careers and Never Look Back](https://www.youtube.com/watch?v=O0RI5yVC3Fs))
+
+### Contact
+Reach out for consulting and security reviews on [X](https://twitter.com/GiuseppeDeLaZa).

@@ -19,7 +19,7 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/), [She
 - [Ampnet](https://ampnet.io/) | The Tokenization of Real World Assets.
 
 ### Misc
-- [EVM Puzzles Walkthorugh](https://www.youtube.com/watch?v=ENfM3spI_hI&list=PLycOy94yA7vph9nb3MFbu00YMK81PHxMK)
+- [EVM Puzzles Walkthrough](https://www.youtube.com/watch?v=ENfM3spI_hI&list=PLycOy94yA7vph9nb3MFbu00YMK81PHxMK)
 - [How To Switch Careers and Never Look Back](https://www.youtube.com/watch?v=O0RI5yVC3Fs)
 
 ### Contact

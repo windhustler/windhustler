@@ -23,4 +23,4 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/), [She
 - [How To Switch Careers and Never Look Back](https://www.youtube.com/watch?v=O0RI5yVC3Fs)
 
 ### Contact
-Reach out for consulting and security reviews on X [@GiuseppeDeLaZa](https://twitter.com/GiuseppeDeLaZa).
+Reach out for consulting and security reviews on X [@GiuseppeDeLaZa](https://twitter.com/windhustler).

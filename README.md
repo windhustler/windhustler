@@ -22,6 +22,7 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhu
 - [EVM Puzzles Walkthrough](https://www.youtube.com/watch?v=ENfM3spI_hI&list=PLycOy94yA7vph9nb3MFbu00YMK81PHxMK)
 - [How To Switch Careers and Never Look Back](https://www.youtube.com/watch?v=O0RI5yVC3Fs)
 - [Elemental Crypto Podcast Episode](https://www.youtube.com/watch?v=MxbMJxGRr08)
+- [HackenProof Podcast Episode](https://www.youtube.com/watch?v=1V0PdcoiPX0)
 
 ### Contact
 Reach out for consulting and security reviews on X [@windhustler](https://twitter.com/windhustler).

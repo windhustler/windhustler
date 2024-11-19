@@ -24,6 +24,7 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhu
 - [Elemental Crypto Podcast Episode](https://www.youtube.com/watch?v=MxbMJxGRr08)
 - [HackenProof Podcast Episode](https://www.youtube.com/watch?v=1V0PdcoiPX0)
 - [Stargate v2 Integration Checklist](https://mirror.xyz/0xaeDAA951e7fbe1031E3553a7a8b1d8A89b132d7b/WfZ1ewSlkbErd-swiBV0AGbQ0xEWdnq6nCzDNStDUKI)
+- [Threatside Crypto Podcast Episode](https://www.youtube.com/watch?v=xiIZyX0TlLA)
 
 ### Contact
 Reach out for consulting and security reviews on X [@windhustler](https://twitter.com/windhustler).

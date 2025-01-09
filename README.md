@@ -27,7 +27,7 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhu
 - [Threatside Crypto Podcast Episode](https://www.youtube.com/watch?v=xiIZyX0TlLA)
 
 ### Bug Breakdowns
-  - [Rhinestone - Temporary failed L1 to L2 token transfers might lock tokens in L1 if replayed after migrating to native USDC](https://x.com/cantinaxyz/status/1851972587561324936)
+  - [defi-wonderland - Temporary failed L1 to L2 token transfers might lock tokens in L1 if replayed after migrating to native USDC](https://x.com/cantinaxyz/status/1851972587561324936)
   - [Coinbase - ERC-6492 implementation allows draining wallet funds by manipulating `ownerIndex`](https://x.com/cantinaxyz/status/1871198386986361239)
   - [Zyfi - Attacker might repeatedly use `selfRevokeSigner` to steal gas refunds](https://x.com/cantinaxyz/status/1860745282612543544)
   - [Omni X - Fee calculation in _`sendDeposits` is done for overall `msg.value` instead of bridged value](https://x.com/cantinaxyz/status/1856894917400011218)

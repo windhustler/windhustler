@@ -26,5 +26,12 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhu
 - [Stargate v2 Integration Checklist](https://mirror.xyz/0xaeDAA951e7fbe1031E3553a7a8b1d8A89b132d7b/WfZ1ewSlkbErd-swiBV0AGbQ0xEWdnq6nCzDNStDUKI)
 - [Threatside Crypto Podcast Episode](https://www.youtube.com/watch?v=xiIZyX0TlLA)
 
+### Bug Breakdowns
+  - [Temporary failed L1 to L2 token transfers might lock tokens in L1 if replayed after migrating to native USDC](https://x.com/cantinaxyz/status/1851972587561324936)
+  - [ERC-6492 implementation allows draining wallet funds by manipulating ownerIndex](https://x.com/cantinaxyz/status/1871198386986361239)
+  - [Attacker might repeatedly use selfRevokeSigner to steal gas refunds](https://x.com/cantinaxyz/status/1860745282612543544)
+  - [Fee calculation in _sendDeposits is done for overall msg.value instead of bridged value](https://x.com/cantinaxyz/status/1856894917400011218)
+  - [LayerZero vanilla integration gone wrong](https://x.com/cantinaxyz/status/1849450897715397042)
+
 ### Contact
 Reach out for consulting and security reviews on X [@windhustler](https://twitter.com/windhustler).

@@ -25,6 +25,7 @@ Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhu
 - [HackenProof Podcast Episode](https://www.youtube.com/watch?v=1V0PdcoiPX0)
 - [Stargate v2 Integration Checklist](https://mirror.xyz/0xaeDAA951e7fbe1031E3553a7a8b1d8A89b132d7b/WfZ1ewSlkbErd-swiBV0AGbQ0xEWdnq6nCzDNStDUKI)
 - [Threatside Crypto Podcast Episode](https://www.youtube.com/watch?v=xiIZyX0TlLA)
+- [3 hard truths about working as a software developer](https://medium.com/@windhustler/3-hard-truths-about-working-as-a-software-developer-fdace1a0e443)
 
 ### Bug Breakdowns
   - [defi-wonderland - Temporary failed L1 to L2 token transfers might lock tokens in L1 if replayed after migrating to native USDC](https://x.com/cantinaxyz/status/1851972587561324936)

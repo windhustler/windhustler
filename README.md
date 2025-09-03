@@ -5,10 +5,8 @@
 - 🤖 Backend Developer | Java | Kotlin | Javascript
 - 👨‍🏭 Ex-Petroleum Engineer
 
-### Work
-Extensive experience in developing and managing DeFi projects holding millions in TVL. 
-
-Passionate about competitive audits at [Code4rena](https://code4rena.com/@windhustler), [Sherlock](https://www.sherlock.xyz/), [CodeHawks](https://www.codehawks.com/), and [HatsFinance](https://app.hats.finance/audit-competitions). 
+### The network podcast
+Check out [THE NETWORK](https://www.youtube.com/@TheNetworkPodcast101) podcast, where I talk with influential figures from the crypto industry!
 
 ### Projects
 

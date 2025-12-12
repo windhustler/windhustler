@@ -26,6 +26,7 @@ Check out [THE NETWORK](https://www.youtube.com/@TheNetworkPodcast101) podcast, 
 - [How Lucrative is Blockchain Security Research?](https://www.youtube.com/watch?v=YeFBDvrbKJs)
 - [3 hard truths about working as a software developer](https://medium.com/@windhustler/3-hard-truths-about-working-as-a-software-developer-fdace1a0e443)
 - [PancakeSwap Crosschain Swaps AMA](https://www.youtube.com/watch?v=YijAOJOCANc)
+- [bountyhunt3rz Episode - windhustler](https://www.youtube.com/watch?v=YvOzgTw2X1Y)
 
 ### Bug Breakdowns
   - [defi-wonderland - Temporary failed L1 to L2 token transfers might lock tokens in L1 if replayed after migrating to native USDC](https://x.com/cantinaxyz/status/1851972587561324936)
